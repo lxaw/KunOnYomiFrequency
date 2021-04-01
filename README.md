@@ -1,6 +1,6 @@
 # KunOnYomiFrequency
 
-## Analyzing the most frequent readings of Kanji
+## Analyzing the possible readings of the most commonly used Kanji.
 
 ## :cinema: Video:
 * 
@@ -20,7 +20,6 @@
 * re:https://docs.python.org/3/library/re.html
 * matplotlib:https://matplotlib.org/
 * random:https://docs.python.org/3/library/random.html
-
 
 ###### :hammer: To do:
 * Try to find a better way of classifying the most frequent readings by the readings of the Kanji of those most common words, rather than just the possible readings.
