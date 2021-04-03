@@ -3,7 +3,7 @@
 ## Analyzing the possible readings of the most commonly used Kanji.
 
 ## :cinema: Video:
-* 
+* https://youtu.be/YTz3-bQPoVM
 
 ## :grey_question: What is it?
 * I wanted to look at the Onyomi and Kunyomi readings of the most frequently used Kanji.
